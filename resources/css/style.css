@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+h1, h2{
+    color: white;
+}
+h1{
+    font-size: 50px;
+    font-weight: normal;
+}
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+.copyright{
+    text-align: right;
+    color: white;
+}
+#excursion {
+    font-size: 21;
+    color: gray;
+}
